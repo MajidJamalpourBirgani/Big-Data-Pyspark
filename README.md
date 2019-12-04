@@ -1,6 +1,6 @@
 # Big-Data-Pyspark
 
-1- Machine Learning using Pyspark
+1- Machine Learning with Bank Data Using Pyspark
 
 -Diabetes data set is one of the most known data available to ML enthusiasts and their learning purposes. The data is publically available on UCI Machine Learning Repostory: https://community.cloud.databricks.com
 
