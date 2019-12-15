@@ -4,7 +4,7 @@
 
 Dataset is one of the most known data available to ML enthusiasts and their learning purposes. The data is publically available  on databricks at: https://community.cloud.databricks.com
 
-I focused only on three classifiers: i.) LogisticRegression, ii.) DecisionTreeClassifier, iii.) random forest. I share how to use StringIndexer, OneHotEncoder and VectorAssembler in pyspark. Secondly, I will be fitting the model using Pipeline.The accuracy I obtained for all three models is 100%.
+I focused only on three classifiers: i.) LogisticRegression, ii.) DecisionTreeClassifier, iii.) random forest. I share how to use StringIndexer, OneHotEncoder and VectorAssembler in pyspark. Secondly, I will be fitting the model using Pipeline.The accuracy obtained for all three models is 100%.
 
 ### Credit Card Fraud Detection
 The dataset is on kaggle website at  https://www.kaggle.com/mlg-ulb/creditcardfraud.
