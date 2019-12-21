@@ -8,6 +8,6 @@ I focused only on three classifiers: i.) LogisticRegression, ii.) DecisionTreeCl
 
 ### Credit Card Fraud Detection
 The dataset is on kaggle website at  https://www.kaggle.com/mlg-ulb/creditcardfraud.
-First, using pyspark I created a balanced dataset from the original one and then I did a comprehensive exploratory data analysis(data cleaning, wrangling, visualization,  outliers,..).
+First, using pyspark, I created a balanced dataset from the original one and then I did a comprehensive exploratory data analysis(data cleaning, wrangling, visualization,  outliers,..).
 
 I applied the models: Random Forest, Naive Bayes, Gradient-Boosted Trees, Logistic Regression on the balanced dataset and predicted the fraud by 96% accuracy.
